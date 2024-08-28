@@ -10,6 +10,12 @@ body{
   strong{
     color: var(--cor-destaque);
   }
+  .apresentacao{
+    display: flex;
+  }
+  strong{
+    color: var(--cor-destaque);
+  }
 }
 
 a{
@@ -18,4 +24,7 @@ a{
   padding: 15px 40px;
   margin: 40px 5px;
   border-radius: 5px;
+}
+.foto{
+  height: 490px;
 }
