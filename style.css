@@ -2,7 +2,7 @@
   --cor-fundo: #000000;
   --cor-destaque: #F50019;
   --cor-texto: #FEFEFE;
-  
+
 }
 body{
   background-color: var(--cor-fundo);
